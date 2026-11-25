@@ -11,11 +11,13 @@ A task management REST API developed using Node.js and Express.js.
 ## Installation
 
 Clone the repository:
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Yilmaz-git/TASKFLOW.git
 
 
 Install dependencies:
+cd TASKFLOW
 npm install
+npm run dev
 
 
 ## Usage

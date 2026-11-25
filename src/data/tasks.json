@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Create Dashboard",
+    "description": "Develop the main dashboard interface",
+    "assignee": "Irfan",
+    "priority": "high",
+    "status": "pending",
+    "createdAt": "2026-11-24T15:10:56.584Z",
+    "updatedAt": "2026-11-24T15:10:56.584Z"
+  },
+  {
+    "id": 2,
+    "title": "Test Default Status",
+    "description": "Testing default task status",
+    "assignee": "Zeynep",
+    "priority": "medium",
+    "status": "pending",
+    "createdAt": "2026-11-24T19:07:59.435Z",
+    "updatedAt": "2026-11-24T19:07:59.435Z"
+  },
+  {
+    "id": 3,
+    "title": "Test Default Status",
+    "description": "Testing default task status",
+    "assignee": "Zeynep",
+    "priority": "medium",
+    "status": "pending",
+    "createdAt": "2026-11-24T19:20:02.674Z",
+    "updatedAt": "2026-11-24T19:20:02.674Z"
+  }
+]
